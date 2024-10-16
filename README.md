@@ -1,3 +1,6 @@
+# Disclaimer
+All data posted was public information at time of collection.
+
 # MCPS COVID DATA
 This project is no longer active!
 This is the backend half of a small project I worked on with a friend back in January 2022.
