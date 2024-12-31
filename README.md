@@ -2,7 +2,6 @@
 All data posted was public information at time of collection.
 
 # MCPS COVID DATA
-This project is no longer active!
 This is the backend half of a small project I worked on with a friend back in January 2022.
 Back then, Montgomery County Public Schools (MCPS) was having a major wave of the COVID-19 virus. 
 Officially, they claimed to consider closing down schools when more than 5% of a school's student body was infected.
